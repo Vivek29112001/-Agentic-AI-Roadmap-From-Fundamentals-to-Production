@@ -5,3 +5,6 @@ langchain-openai
 langchain-groq
 langchain-core
 langchain-community
+defusedxml
+pypdf
+bs4
